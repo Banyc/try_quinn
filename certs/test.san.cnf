@@ -1,0 +1,4 @@
+subjectAltName=@test_san
+
+[test_san]
+DNS.1 = localhost
